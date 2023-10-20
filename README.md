@@ -8,11 +8,28 @@ Incluye las secciones: sobre mí, proyectos, experiencia.
 
 Incluye recursos multimedia.
 
-<a href="https://jovial-zuccutto-f60209.netlify.app/" target="_blank">**Visitalo ahora** 🚀</a>
+<a href="https://admirable-squirrel-0ecef1.netlify.app" target="_blank">**Visitalo ahora** 🚀</a>
+
 # Secciones (capturas de pantalla)
 
 Sobre mí:
-![Alt text](assets/image.png)
+![Alt text](image-1.png)
+
+Habilidades: 
+![Alt text](image-2.png)
+
+Proyectos: 
+![Alt text](image-3.png)
+
+Cursos:
+![Alt text](image-4.png)
+
+Testimonios:
+![Alt text](image-5.png)
+
+Contacto:
+![Alt text](image-6.png)
+
 
 # Tecnologías
 
@@ -26,6 +43,7 @@ Sobre mí:
 
 Si estás interesad@ en compartir o conectar para algún proyecto u oportunidad laboral, contáctame.
 
-<a href="https://www.linkedin.com/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
+<a href=""><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
 
-© 2023 Anyelina (Programa Technolochicas PRO)
+
+© 2023 Anyelina Irene Vilchis Sierra (Programa Technolochicas PRO)
